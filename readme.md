@@ -56,7 +56,7 @@ Dengan memanfaatkan hasil analisis ini, hotel dapat meningkatkan kinerja bisnis,
 
 ## Package yang Diperlukan
 
-Berikut adalah daftar package Python yang digunakan dalam analisis ini. Pastikan Anda telah menginstal package-package ini sebelum menjalankan kode:
+Berikut adalah daftar package Python yang digunakan dalam analisis ini. Pastikan Pembaca telah menginstal package-package ini sebelum menjalankan kode:
 
   * **python:** 3.10.16
   * **pandas:** 2.2.3 (untuk manipulasi dan analisis data)
@@ -208,7 +208,7 @@ Tujuan analisis ini adalah untuk memahami faktor-faktor yang mempengaruhi pembat
 
 **2. Penanganan Masalah:**
 
-Kami menggunakan data historis pemesanan hotel dari tahun 2015 hingga 2017 yang mencakup data pemesanan, pelanggan, dan pembatalan. Metodologi yang digunakan meliputi analisis deskriptif, analisis eksploratif, dan visualisasi data.
+Penulis menggunakan data historis pemesanan hotel dari tahun 2015 hingga 2017 yang mencakup data pemesanan, pelanggan, dan pembatalan. Metodologi yang digunakan meliputi analisis deskriptif, analisis eksploratif, dan visualisasi data.
 
 **3. Wawasan Menarik:**
 
