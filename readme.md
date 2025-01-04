@@ -7,6 +7,7 @@
   * [Data Preparation](#data-preparation)
   * [Eksplorasi dan Analisis Data](#eksplorasi-dan-analisis-data)
     * [Wawasan](#wawasan)
+    * [Tindakan](#tindakan)
   * [Rangkuman](#rangkuman)
   * [Penulis](#penulis)
 
