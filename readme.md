@@ -129,9 +129,9 @@ Berikut adalah beberapa informasi baru yang ditemukan dalam data, disajikan dala
 
 **5. Persentase Pesanan Dibatalkan berdasarkan Kategori ADR**
 
-![Rata-rata Pesanan Dibatalkan berdasarkan ADR](images/Pemesanan_yang_Dibatalkan_pada_Setiap_Market_Segment_Berdasarkan_Kategori_ADR.jpg)
+![Rata-rata Pesanan Dibatalkan berdasarkan ADR](images/Rata-rata_Jumlah_Pembatalan_untuk_Setiap_Kategori_ADR.jpg)
 
-**6. Persentase Pembatalan Berdasarkan Negara (Jumlah Pemesanan >= 39)**
+**6. Pembatalan pada Setiap Market Segment Berdasarkan Kategori ADR**
 
 ![Pembatalan pada Setiap Market Segment Berdasarkan Kategori ADR](images/Pemesanan_yang_Dibatalkan_pada_Setiap_Market_Segment_Berdasarkan_Kategori_ADR.jpg)
 
