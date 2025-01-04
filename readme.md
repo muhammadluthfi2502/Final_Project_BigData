@@ -64,6 +64,24 @@ Berikut adalah daftar package Python yang digunakan dalam analisis ini. Pastikan
   * **scikit-learn:** 1.6.0 (untuk melakukan encoding, dan machine learning jika diperlukan)
   * **matplotlib:** 3.10.0 (untuk visualisasi data)
 
+Pembaca juga dapat menginstal semuanya sekaligus menggunakan file `requirements.txt` yang telah disediakan di repository ini menggunakan Conda Environment. 
+
+**Instalasi menggunakan requirements.txt (conda):**
+
+1.  **Buat environment conda baru:**
+
+    ```bash
+    conda create --name <nama_environment> --file requirements.txt
+    ```
+    Ganti `<nama_environment>` dengan nama environment yang diinginkan. Perintah ini akan membuat environment conda baru dan menginstal semua package yang tercantum dalam `requirements.txt`.
+
+2.  **Aktifkan environment conda:**
+    ```bash
+    conda activate <nama_environment>
+    ```
+
+Perintah ini akan secara otomatis menginstal semua package yang tercantum dalam file `requirements.txt` ke dalam environment Pembaca.
+
 ## Data Preparation
 
 **1. Sumber Data:**
