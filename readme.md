@@ -156,7 +156,7 @@ Berikut adalah beberapa informasi baru yang ditemukan dalam data, disajikan dala
 |TUR|41.13|
 
 
-## **Wawasan:**
+### **Wawasan:**
 
   * Terdapat tren peningkatan jumlah pemesanan dari tahun 2015 hingga 2017.
   * Terdapat fluktuasi musiman dalam jumlah pemesanan, dengan puncak pemesanan terjadi di bulan Agustus.
@@ -166,7 +166,7 @@ Berikut adalah beberapa informasi baru yang ditemukan dalam data, disajikan dala
   * Terdapat hubungan antara ADR dan tingkat pembatalan. Semakin tinggi ADR, semakin besar pula kemungkinan Tingkat pembatalan.
   * United Arab Emirates (ARE) memiliki persentase pembatalan tertinggi, sedangkan Serbia (SRB) memiliki persentase pembatalan terendah.
 
-## **Tindakan:**
+### **Tindakan:**
 
 Berikut ini adalah beberapa saran tindakan yang dapat diambil oleh pihak hotel berdasarkan wawasan yang diperoleh:
 
