@@ -5,6 +5,7 @@
   * [Pendahuluan](#pendahuluan)
   * [Package yang Diperlukan](#package-yang-diperlukan)
   * [Data Preparation](#data-preparation)
+    * [Wawasan](#wawasan)
   * [Eksplorasi dan Analisis Data](#eksplorasi-dan-analisis-data)
   * [Rangkuman](#rangkuman)
   * [Penulis](#penulis)
