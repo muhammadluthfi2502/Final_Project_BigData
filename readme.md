@@ -165,6 +165,36 @@ Berikut adalah beberapa informasi baru yang ditemukan dalam data, disajikan dala
   * Terdapat hubungan antara ADR dan tingkat pembatalan. Semakin tinggi ADR, semakin besar pula kemungkinan Tingkat pembatalan.
   * United Arab Emirates (ARE) memiliki persentase pembatalan tertinggi, sedangkan Serbia (SRB) memiliki persentase pembatalan terendah.
 
+## **Tindakan:**
+
+Berikut ini adalah beberapa saran tindakan yang dapat diambil oleh pihak hotel berdasarkan wawasan yang diperoleh:
+
+**1. Tingkatkan Pengalaman Pelanggan untuk Mengurangi Pembatalan:**
+
+*   **Fokus pada Bulan Puncak:** Mengingat puncak pemesanan terjadi di bulan Mei dan bulan Oktober, pastikan hotel memiliki staf dan sumber daya yang cukup untuk menangani lonjakan permintaan. Optimalkan strategi penetapan harga dan promosi selama periode ini.
+*   **Kurangi Waktu Tunggu Pemesanan:** Semakin lama waktu tunggu (`lead_time`), semakin tinggi kemungkinan pembatalan. Hotel harus berupaya mempersingkat proses pemesanan dan memberikan konfirmasi pemesanan dengan cepat.
+*   **Berikan Penawaran Khusus untuk Pemesanan Awal:** Untuk mengatasi masalah pembatalan yang terkait dengan `lead_time` yang lama, tawarkan insentif khusus bagi tamu yang melakukan pemesanan lebih awal, seperti diskon.
+*   **Perhatikan Market Segment Tertentu:** Mengingat beberapa segmen pasar, seperti Groups, memiliki tingkat pembatalan yang lebih tinggi, hotel harus mengembangkan strategi yang ditargetkan untuk segmen ini. Misalnya, menawarkan persyaratan pembatalan yang lebih fleksibel atau meminta deposit yang lebih besar.
+    *   **Fokus pada Market Segment "Groups" dan "Online TA" terkait ADR:**
+        *   **"Groups":** Memiliki jumlah pembatalan tertinggi, terutama pada kategori ADR "Medium". Hotel perlu meninjau kebijakan pemesanan untuk grup, seperti deposit yang lebih besar, batas waktu pembayaran, atau fleksibilitas pembatalan.
+        *   **"Online TA":** Jumlah pembatalan tinggi pada kategori ADR "High" dan "Very High". Evaluasi kerjasama dengan Online Travel Agent (OTA), pastikan kesesuaian informasi kamar dan harga, serta perhatikan ulasan dan *feedback* dari tamu yang memesan melalui OTA. Pertimbangkan untuk menawarkan insentif khusus atau promosi untuk mengurangi pembatalan pada segmen ini.
+*   **Strategi Pemasaran yang Bertarget:** Mengingat variasi tingkat pembatalan berdasarkan negara, hotel harus menyesuaikan strategi pemasaran mereka. Misalnya, fokus pada upaya pemasaran di negara-negara dengan tingkat pembatalan yang rendah.
+
+**2. Peningkatan Operasional dan Strategi:**
+
+*   **Manajemen Deposit:** Menerapkan kebijakan deposit yang lebih ketat, terutama untuk segmen pasar dengan tingkat pembatalan yang tinggi atau pemesanan dengan `lead_time` yang lama, dapat membantu mengurangi pembatalan.
+*   **Program Loyalitas:** Memperkuat program loyalitas untuk mendorong pemesanan berulang dan mengurangi pembatalan.
+*   **Analisis Data Lanjutan:** Melakukan analisis data yang lebih mendalam untuk memahami faktor-faktor lain yang dapat memengaruhi pembatalan, seperti jenis kamar, saluran distribusi, dan permintaan khusus.
+*   **Prediksi Pembatalan:** Mengembangkan model prediktif untuk mengidentifikasi pemesanan yang berisiko tinggi dibatalkan.
+*   **Overbooking Terkendali:** Menerapkan strategi *overbooking* yang terkendali untuk mengurangi dampak negatif dari pembatalan.
+
+**3. Penting untuk diingat bahwa:**
+
+*   Saran-saran ini bersifat umum dan mungkin perlu disesuaikan dengan karakteristik spesifik hotel dan pasar tempat hotel beroperasi.
+*   Penting untuk terus memantau data pembatalan dan mengevaluasi efektivitas strategi yang diterapkan untuk melakukan penyesuaian yang diperlukan.
+
+Dengan mengambil langkah-langkah proaktif untuk mengatasi masalah pembatalan, hotel dapat meningkatkan pendapatan dan profitabilitas mereka.
+
 **Kesimpulan:**
 
 Analisis ini berhasil mengidentifikasi beberapa faktor yang berkorelasi dengan pembatalan pemesanan hotel. Informasi ini dapat digunakan untuk mengembangkan strategi untuk mengurangi tingkat pembatalan dan meningkatkan pendapatan hotel.
