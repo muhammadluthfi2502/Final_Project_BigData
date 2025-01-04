@@ -72,14 +72,14 @@ Pembaca juga dapat menginstal semuanya sekaligus menggunakan file `requirements.
     ```bash
     conda config --add channels conda-forge
     ```
-    Perintah ini akan menambahkan channel conda-forge ke daftar channel conda Anda.
+    Perintah ini akan menambahkan channel conda-forge ke daftar channel conda pembaca.
 
 2.  **Buat environment conda baru:**
 
     ```bash
     conda create --name <nama_environment> --file requirements.txt
     ```
-    Ganti `<nama_environment>` dengan nama environment yang Anda inginkan. Perintah ini akan membuat environment conda baru dan menginstal semua package yang tercantum dalam `requirements.txt`.
+    Ganti `<nama_environment>` dengan nama environment yang diinginkan. Perintah ini akan membuat environment conda baru dan menginstal semua package yang tercantum dalam `requirements.txt`.
 
 3.  **Aktifkan environment conda:**
     ```bash
