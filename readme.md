@@ -58,24 +58,30 @@ Dengan memanfaatkan hasil analisis ini, hotel dapat meningkatkan kinerja bisnis,
 
 Berikut adalah daftar package Python yang digunakan dalam analisis ini. Pastikan Pembaca telah menginstal package-package ini sebelum menjalankan kode:
 
-  * **python:** 3.10.16
-  * **pandas:** 2.2.3 (untuk manipulasi dan analisis data)
-  * **tabulate:** 0.9.0 (untuk menampilkan data dalam bentuk tabel)
-  * **scikit-learn:** 1.6.0 (untuk melakukan encoding, dan machine learning jika diperlukan)
-  * **matplotlib:** 3.10.0 (untuk visualisasi data)
+*  **python:** 3.10.16
+*  **pandas:** 2.2.3 (untuk manipulasi dan analisis data)
+*  **tabulate:** 0.9.0 (untuk menampilkan data dalam bentuk tabel)
+*  **scikit-learn:** 1.6.0 (untuk melakukan encoding, dan machine learning jika diperlukan)
+*  **matplotlib:** 3.10.0 (untuk visualisasi data)
 
-Pembaca juga dapat menginstal semuanya sekaligus menggunakan file `requirements.txt` yang telah disediakan di repository ini menggunakan Conda Environment. 
+Pembaca juga dapat menginstal semuanya sekaligus menggunakan file `requirements.txt` yang telah disediakan di repository ini menggunakan Conda Environment.  Penulis menggunakan channel conda-forge untuk penginstalan package.
 
 **Instalasi menggunakan requirements.txt (conda):**
 
-1.  **Buat environment conda baru:**
+1.  **Tambahkan channel conda-forge (jika belum):**
+    ```bash
+    conda config --add channels conda-forge
+    ```
+    Perintah ini akan menambahkan channel conda-forge ke daftar channel conda Anda.
+
+2.  **Buat environment conda baru:**
 
     ```bash
     conda create --name <nama_environment> --file requirements.txt
     ```
-    Ganti `<nama_environment>` dengan nama environment yang diinginkan. Perintah ini akan membuat environment conda baru dan menginstal semua package yang tercantum dalam `requirements.txt`.
+    Ganti `<nama_environment>` dengan nama environment yang Anda inginkan. Perintah ini akan membuat environment conda baru dan menginstal semua package yang tercantum dalam `requirements.txt`.
 
-2.  **Aktifkan environment conda:**
+3.  **Aktifkan environment conda:**
     ```bash
     conda activate <nama_environment>
     ```
