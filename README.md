@@ -167,5 +167,7 @@ yang lebih efektif dan berbasis data.
 ## Penulis
 **Muhammad Luthfi**  
 S1 Teknik Informatika – Universitas Muhammadiyah Malang
+Fokus: Data Analysis & Data Engineering
+
 
 
