@@ -12,6 +12,7 @@
   - [Pembatalan Berdasarkan Market Segment](#pembatalan-berdasarkan-market-segment)
   - [Pengaruh Harga Kamar (ADR) terhadap Pembatalan](#pengaruh-harga-kamar-adr-terhadap-pembatalan)
 - [Wawasan Utama](#wawasan-utama)
+- [Rekomendasi Utama](#rekomendasi-utama)
 - [Rangkuman](#rangkuman)
 - [Penulis](#penulis)
 
@@ -125,6 +126,14 @@ Berdasarkan hasil eksplorasi data:
 
 ---
 
+## Rekomendasi Utama
+Berdasarkan hasil analisis, beberapa rekomendasi yang dapat dipertimbangkan oleh manajemen hotel adalah:
+- Menerapkan kebijakan deposit atau konfirmasi tambahan untuk pemesanan dengan *lead time* panjang
+- Menyesuaikan kebijakan reservasi dan pembatalan untuk *market segment* dengan risiko tinggi, khususnya **Groups** dan **Online TA**
+- Mengembangkan strategi harga dan reservasi yang berbeda untuk segmen harga menengah yang menunjukkan tingkat pembatalan tertinggi
+
+---
+
 ## Rangkuman
 Analisis ini menunjukkan bahwa pembatalan pemesanan hotel
 dipengaruhi oleh karakteristik pemesanan dan perilaku pelanggan,
@@ -138,3 +147,4 @@ yang lebih efektif dan berbasis data.
 ## Penulis
 **Muhammad Luthfi**  
 S1 Teknik Informatika – Universitas Muhammadiyah Malang
+
