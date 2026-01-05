@@ -5,6 +5,7 @@
 - [Nilai Bisnis](#nilai-bisnis)
 - [Dataset](#dataset)
 - [Pertanyaan Bisnis](#pertanyaan-bisnis)
+- [Fokus Analisis](#fokus-analisis)
 - [Package yang Diperlukan](#package-yang-diperlukan)
 - [Data Preparation](#data-preparation)
 - [Eksplorasi dan Analisis Data](#eksplorasi-dan-analisis-data)
@@ -59,6 +60,25 @@ Analisis ini dirancang untuk menjawab pertanyaan berikut:
 2. Apakah jarak waktu antara pemesanan dan hari kedatangan (*lead time*) mempengaruhi kemungkinan pembatalan?
 3. Bagaimana pengaruh *market segment* terhadap tingkat pembatalan pemesanan?
 4. Apakah tingkat harga kamar (*Average Daily Rate / ADR*) berkaitan dengan pembatalan reservasi?
+
+---
+
+## Fokus Analisis
+
+Dataset yang digunakan dalam proyek ini memiliki banyak variabel yang berpotensi
+untuk dianalisis. Namun, analisis tidak dilakukan pada seluruh variabel secara bersamaan.
+Pemilihan variabel dilakukan secara terfokus untuk menjaga fokus analisis
+dan menghasilkan insight yang berdampak secara bisnis.
+
+Analisis difokuskan pada variabel yang memenuhi kriteria berikut:
+1. Mencerminkan perilaku dan tingkat komitmen pelanggan terhadap pemesanan
+2. Dapat ditindaklanjuti melalui kebijakan operasional atau strategi bisnis hotel
+3. Mudah dipahami oleh pemangku kepentingan non-teknis
+
+Berdasarkan pertimbangan tersebut, analisis ini difokuskan pada tiga aspek utama:
+- Jarak waktu pemesanan (*lead time*)
+- *Market segment*
+- Harga kamar (*Average Daily Rate / ADR*)
 
 ---
 
@@ -147,4 +167,5 @@ yang lebih efektif dan berbasis data.
 ## Penulis
 **Muhammad Luthfi**  
 S1 Teknik Informatika – Universitas Muhammadiyah Malang
+
 
